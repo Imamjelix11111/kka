@@ -1,0 +1,19 @@
+{
+  padding: 0;
+  margin: 0;
+}
+.kintil {
+  background-color: white;
+  height: 100vh;
+}
+
+.h1{ 
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  background-color: white;
+  color: black;
+  font-size: 70px;
+  letter-spacing: 5px;
+  font-weight: 5px;
+}
